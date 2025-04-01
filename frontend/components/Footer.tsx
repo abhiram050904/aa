@@ -17,7 +17,7 @@ const Footer = () => {
       </div>
       <div>
          <p>Home</p>
-         <p>About</p>
+         <p>About with changes</p>
          <p>dashboats</p>
          <p>Login</p>
 

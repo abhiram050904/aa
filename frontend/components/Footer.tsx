@@ -18,7 +18,7 @@ const Footer = () => {
       <div>
          <p>Home</p>
          <p>About</p>
-         <p>dashboard</p>
+         <p>dashboats</p>
          <p>Login</p>
 
       </div>
